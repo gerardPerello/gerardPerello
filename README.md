@@ -8,12 +8,12 @@ The majority of the projects on my GitHub profile are recent additions. This is 
 
 - [Interactive Multi Point Cloud Rendering with Ray Tracing with C++/GLSL](https://github.com/gerardPerello/InteractiveMultiPointCloudRenderingWithRayTracingPublic)
 - [Android app with Kotlin](https://github.com/gerardPerello/AndroidSportsApp)
-- [Sports basic WebPage back and front]([https://github.com](https://github.com/gerardPerello/SportsBasicWebPage))
-- [Hula App Design with Figma]([https://github.com](https://framer.com/share/Hula-V-1--wx1mVPIsYdUTuJHfFHiU/df17ngMoi))
+- [Sports basic WebPage back and front](https://github.com/gerardPerello/SportsBasicWebPage)
+- [Hula App Design with Figma](https://framer.com/share/Hula-V-1--wx1mVPIsYdUTuJHfFHiU/df17ngMoi)
 - [ERP basis for Supermarkets with C#](https://github.com/gerardPerello/ERPBasisForSupermarketsPublic)
-- [Sponge Bob Fractal Implementation with GLSL](https://github.com)
-- [Wordle game with Java]([https://github.com](https://github.com/gerardPerello/WordleWithJava))
-- [Algorithms for a stitching reconstruction of holographic microscope images // Python]([https://github.com](https://github.com/gerardPerello/AlgorithmsForStitchingReconstructionHolographicMicroscopePublic))
+- [Sponge Bob Fractal Implementation with GLSL](https://www.shadertoy.com/view/fdKyWz)
+- [Wordle game with Java](https://github.com/gerardPerello/WordleWithJava)
+- [Algorithms for a stitching reconstruction of holographic microscope images // Python](https://github.com/gerardPerello/AlgorithmsForStitchingReconstructionHolographicMicroscopePublic)
 
 Apart from the showcased projects, my experience also includes involvement in additional projects not currently displayed here. Some of these projects involve:
 
